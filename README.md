@@ -2,7 +2,7 @@
 Revendo conceitos fundamentais de C# com um olhar mais avançado!
 
 
-###Membros estáticos
+> Membros estáticos
 
 Classe = Metódos + Atributos = Membros
 
@@ -16,3 +16,5 @@ Um método chamado sem instancialização, para auxilio e pelo nome da classe.
 
 - Classes com todos membros estáticos, pode ser definida como estática também.
 - Classes estáticas não podem ser inicializadas
+
+=============================================================================
